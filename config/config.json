@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "prefix": ".",
+    "channelid": "",
+    "share_commands": {
+        "prefix": "v!",
+        "enabled": false
+    }
+}
